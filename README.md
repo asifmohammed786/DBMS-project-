@@ -5,14 +5,14 @@
 
 **Recommended PHP Version 5.6.3, 7.4.12**
 
+**PATIENT LOGIN DETAILS**
+**username: rahul12@gmail.com**
+**Password: rahul123**
 
-**Admin Login Details**
+**DOCTOR LOGIN DETAILS**
+**USERNAME: rajukiran@gmail.com**
+**PASSWORD: raju123**
 
-Username: admin
-Password: 123
-
-**Faculty Login Details**
-
-Username: robinson
-Password: 123
-
+**ADMIN LOGIN DETAILS**
+**USERNAME: admin**
+**PASSWORD: Test@12345**
