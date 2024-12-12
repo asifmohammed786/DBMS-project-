@@ -1,7 +1,7 @@
 
 **Database Name: hms**
 
-**Developed by Harsha, Koushik, Asif**
+**Developed by Asif, Koushik, Harsha**
 
 **Recommended PHP Version 5.6.3, 7.4.12**
 
